@@ -40,7 +40,7 @@ class App extends Component {
     return (
       <div className="App">
         <Greeting1
-          message1="Hi from component 1"
+          message1="Hi from Apollo 1"
           message2="This is a piece of cake"
         />
         <Greeting />
